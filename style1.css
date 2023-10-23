@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Marvel&display=swap');
+
+
+
+p{
+    font-family: 'Marvel', sans-serif;
+    font-size: 3rem;
+}
+
+.para{
+    font-family: 'Marvel', sans-serif;
+    font-size: 1.2rem;
+}
+
+.sizeH{
+    height: 9rem;
+    width: 100%;
+}
+
+
+#hauteur{
+    height: 4.3rem;
+    width: 100%;
+}
+
+ #size{
+    height: 4.4rem;
+}
+
+#logo {
+    height: 4rem;
+    width: 5.6rem;
+} 
